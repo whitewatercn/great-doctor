@@ -1,9 +1,9 @@
-name: Gitee repos mirror periodic job
+name: Gitee 2 Github
 
 on:
   schedule:
     # Runs at 0,2,4,6...,22th hour every day (every 2 hours)
-    - cron:  '0 */2 * * *'
+    - cron:  '10 * * * *'
 
 jobs:
   build:
