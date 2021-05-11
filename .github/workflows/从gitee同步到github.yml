@@ -3,7 +3,7 @@ name: Gitee 2 Github
 on:
   schedule:
     # Runs at 0,2,4,6...,22th hour every day (every 2 hours)
-    - cron:  '10 * * * *'
+    - cron:  '1 * * * *'
 
 jobs:
   build:
