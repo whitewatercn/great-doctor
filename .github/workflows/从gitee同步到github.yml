@@ -1,0 +1,20 @@
+name: Gitee repos mirror periodic job
+
+on:
+  schedule:
+    # Runs at 0,2,4,6...,22th hour every day (every 2 hours)
+    - cron:  '0 */2 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Mirror the gitee repos to github.
+      uses: Yikun/hub-mirror-action@master
+      with:
+        src: gitee/whitewatercn
+        dst: github/whitewatercn
+        dst_key: ${{ secrets.SYNC__PRIVATE_KEY }}
+        dst_token:  ${{ secrets.SYNC_TOKEN }}
