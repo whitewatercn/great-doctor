@@ -18,3 +18,6 @@ jobs:
         dst: github/whitewatercn
         dst_key: ${{ secrets.SYNC__PRIVATE_KEY }}
         dst_token:  ${{ secrets.SYNC_TOKEN }}
+        static_list: "great-doctor"
+        force_update: true
+        debug: true
