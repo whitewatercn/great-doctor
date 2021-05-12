@@ -6,7 +6,8 @@
 收集、整理、训诂中医经典的项目
 
 # 如何使用
-本项目基于obsidian（用于显示、查询项目内文件）及git（用于下载项目文件）使用
+本项目基于obsidian（用于显示、查询项目内文件）使用，另外可以安装git保持数据随时更新
+
 所需文件均在[链接](https://beginner.feishu.cn/drive/folder/fldcnQV6yRL2IcD0wNNWCh5t7pe)中
 
 ## 下载安装obsidian
