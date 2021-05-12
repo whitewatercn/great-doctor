@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "0425d04524b5de40",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca11192f76dc4315",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "参与项目.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99d54e5df6f88ce0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff26dfaf2dcb0ef1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c257ade26bfbaba4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3369e3bfc8bf1890",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68bcf54e0165e2d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b8fd3049a194eab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36657c807385a11f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "参与项目.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ca11192f76dc4315",
+  "lastOpenFiles": [
+    "参与项目.md",
+    "README.md"
+  ]
+}
