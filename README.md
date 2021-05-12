@@ -5,6 +5,14 @@
 # 项目介绍
 收集、整理、训诂中医经典的项目
 
+# 如何使用
+本项目基于obsidian（用于显示、查询项目内文件）及git（用于下载项目文件）使用
+所需文件均在[链接](https://beginner.feishu.cn/drive/folder/fldcnQV6yRL2IcD0wNNWCh5t7pe)中
+
+## 下载安装obsidian
+https://beginner.feishu.cn/file/boxcnno6ZlvXAuFr10cygosJPde?from=from_copylink
 # 项目成员
+
+
 
 
